@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export SERVICE_NAME=gitea
+
+export SERVICE_GITEA_IMAGE_VERSION=v1.0.0
+
+export SERVICE_GITEA_PORT=${SERVICE_GITEA_PORT}

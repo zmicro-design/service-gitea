@@ -1,0 +1,3 @@
+NAME=gitea
+VERSION=v1.0.0
+DESCRIPTION="Gitea Service"
